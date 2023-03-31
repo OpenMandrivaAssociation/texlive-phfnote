@@ -1,6 +1,6 @@
 Name:		texlive-phfnote
 Version:	60733
-Release:	1
+Release:	2
 Summary:	Basic formatting for short documents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/phfnote
