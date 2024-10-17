@@ -3,7 +3,7 @@ Version:	60733
 Release:	2
 Summary:	Basic formatting for short documents
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/phfnote
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/phfnote
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/phfnote.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/phfnote.doc.r%{version}.tar.xz
